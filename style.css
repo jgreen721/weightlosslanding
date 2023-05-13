@@ -765,12 +765,17 @@ rect {
 
   .header-column {
     text-align: center;
+    padding-left: 0rem;
   }
 
   .header-text-filter-row {
     justify-content: center;
     flex-direction: column;
     gap: 2rem;
+  }
+
+  .dots-list {
+    margin-left: 0rem;
   }
 
   .jogging-img {
